@@ -1,9 +1,16 @@
-const Grissinfondo = document.querySelector
+window.addEventListener("load",inicio);
 
-function fondo() {
-    img = <img src='Grissinfondo.png'></img>;
-    return [img]
-}
-for (let im = 1; im <= 80; im++) {
-    let fondo = im
+function inicio() {
+
+    const Grissinfondo2 = document.querySelector
+
+    function fondo() {
+        return [im]
+    }
+
+    let im = <img src='Grissinfondo2.png'></img>; 
+    for (let im = 1; im <= 80; im++) {
+        im = <img src='Grissinfondo2.png'></img>;
+        return
+    }
 }
