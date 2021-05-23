@@ -10,8 +10,8 @@ h1{
     text-align: center;
 }
 
-.Gris-vacio{
-    width: 4%;
+.Gris-parrafo-vacio{
+    width: 3%;
     margin: 0%;
     padding: 0%;
     border: 2px solid #000;
@@ -21,38 +21,38 @@ h1{
     text-align: center;
     
 }
-.logos-angular{
+.logos_angular{
     width: 3.4%;
     border: 2px solid #000;
 }
-.logos-css{
+.logos_css{
     width: 3%;
     border: 2px solid #000;
 }
-.logos-Js{
+.logos_Js{
     width: 3%;
     border: 2px solid #000;
 }
-.logos-mysql{
+.logos_mysql{
     width: 3%;
     border: 2px solid #000;
     /* margin: 0px;
     padding: 0px; */
     
 }
-.logos-php{
+.logos_php{
     width: 3%;
     border: 2px solid #000;
 }
-.logos-phyton{
+.logos_phyton{
     width: 3%;
     border: 2px solid #000;
 }
-.logos-ruby{
+.logos_ruby{
     width: 3.6%;
     border: 2px solid #000;
 }
-.logos-simphony{
+.logos_simphony{
     width: 3%;
     border: 2px solid #000;
 }
