@@ -1,4 +1,4 @@
-.centercol h1 {
+/* .centercol h1 {
     color: #006bb6;
     font-weight: normal;
     font-size: 18px;
@@ -6,4 +6,9 @@
     border-left:3px solid #c6c1b8;
     background:#f2efe9;
     display:block;
+} */
+
+body{
+        color: rgb(119, 13, 13);
+        background-color: rgb(255, 255, 255);
 }
