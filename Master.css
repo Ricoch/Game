@@ -1,20 +1,36 @@
+* { margin: auto;
+    padding: 0.2em;
+    box-sizing: border-box;
+}
+/* img{
+    max-width: 100%;
+} */
+body{
+    background-color: #f7a9a9;
+}
 h1{
-        color: rgb(119, 13, 13);
-        background-color: rgb(255, 255, 255);
-        border-top: 20px; color: rgb(238, 6, 6);
-        text-align: center;
+    color: rgb(119, 13, 13);
+    background-color: rgb(221, 167, 167);
+    border-top: 20px; color: rgb(238, 6, 6);
+    text-align: center;
 }
 
 
 .Gris{
     text-align: center;
+    margin: auto;
+    padding: 0px;
+    width: 980px;
 }
+
+
 
 .Gris-parrafo-vacio{
     width: 3%;
     margin: 0%;
     padding: 0%;
     border: 2px solid #000;
+    
 }
 
 .logos{
