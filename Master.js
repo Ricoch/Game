@@ -7,4 +7,3 @@ function gris() {
     }
     document.querySelector(".Gris").innerHTML = img;
 }
-
