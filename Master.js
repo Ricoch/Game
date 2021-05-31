@@ -1,6 +1,3 @@
-
-/*     let grisVacio = document.querySelector('.Gris-parrafo-vacio')
- */
 window.addEventListener("load",gris);
 
 function gris() {
@@ -10,3 +7,4 @@ function gris() {
     }
     document.querySelector(".Gris").innerHTML = img;
 }
+
